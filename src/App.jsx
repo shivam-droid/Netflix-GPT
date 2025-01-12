@@ -1,14 +1,7 @@
-import "./App.css";
+import Body from "./components/Body.jsx";
 
 function App() {
-  return (
-    <>
-      <div className="bg-blue-500 text-white p-5">
-        <h1 className="text-2xl font-bold underline">Hello Tailwind CSS!</h1>
-      </div>
-    </>
-  );
+  return <Body />;
 }
 
 export default App;
-
