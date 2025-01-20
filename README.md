@@ -2,8 +2,10 @@
 
 - Create React App
 - Configured Tailwindcss 
+- Routing using React-router-dom
 - Login Page with Header
     - Sign In form and Sign Up Form in a Single Form using state variable 
+- Form Validation 
 
 
 # Features
