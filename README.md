@@ -6,6 +6,8 @@
 - Login Page with Header
     - Sign In form and Sign Up Form in a Single Form using state variable 
 - Form Validation 
+- Firebase setup
+- Firebase Authentication setup
 
 
 # Features
